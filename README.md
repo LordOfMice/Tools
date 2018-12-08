@@ -4,7 +4,7 @@ alc650 - setter, viewer and GUI analog part mixer for Realtek ALC650 AC'97 Codec
 
 burnmem - Win9x Memory Burn Driver. Limits memory for himem.sys (to limit it for Windows 9x). BIOS INT 15h interfaces for memory viewer as bonus.
 
-devsize - Windows NT Storage Devices Internal Interfaces viewer. It's strange but i could not find such tool - so wrote my own.
+devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
 giveio - Yes, this is first and only RIGHT (no side effects) version with x64 support! Use atsiv to load on modern x64 OSes.
 
