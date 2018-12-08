@@ -1,4 +1,4 @@
-This is some tools located earlier on http://sweetlow.at.tut.by/ and http://sweetlow.orgfree.com/
+Some of these tools were previously located at http://sweetlow.at.tut.by/ and http://sweetlow.orgfree.com/
 
 alc650 - setter, viewer and GUI analog part mixer for Realtek ALC650 AC'97 Codec. giveio client. viewer and setter can be used with any AC'97 Codec (viewer output is valid for common AC'97 registers only).
 
