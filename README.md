@@ -6,6 +6,12 @@ burnmem - Win9x Memory Burn Driver. Limits memory for himem.sys (to limit it for
 
 devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
+devstate - Tool to Restart, Enable or Disable device by Device Instance ID in Windows
+
+devtree - Windows Device Tree viewer
+
 giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv to load on modern x64 OSes.
+
+riffparser - Parser of RIFF container files like .AVI, .WAV, .DAT
 
 sbp2dos - IEEE1394 SBP2 ASPI driver for DOS. Unlocked to work with any device, command line parameters discovered. DOS ASPI viewer as bonus.
