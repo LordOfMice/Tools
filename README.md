@@ -6,7 +6,7 @@ APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) dr
 
 atsiv - and how to UNLOAD its driver after using
 
-burnmem - Win9x Memory Burn Driver. Limits memory for himem.sys (to limit it for Windows 9x). BIOS INT 15h interfaces for memory viewer as bonus.
+burnmem - Win9x Memory Burn Driver. Limits memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
 
 devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
