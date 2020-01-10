@@ -19,3 +19,5 @@ giveio - Yes, this is first and only RIGHT (working and no side effects) version
 riffparser - Parser of RIFF container files like .AVI, .WAV, .DAT
 
 sbp2dos - IEEE1394 SBP2 ASPI driver for DOS. Unlocked to work with any device, command line parameters discovered. DOS ASPI viewer as bonus.
+
+TimerRes - Windows Timers Info
