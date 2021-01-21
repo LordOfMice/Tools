@@ -14,6 +14,8 @@ devstate - Tool to Restart, Enable or Disable device by Device Instance ID in Wi
 
 devtree - Windows Device Tree viewer
 
+edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
+
 giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv to load on modern x64 OSes.
 
 pskill - Process Kill, Windows 95 & 2000+
