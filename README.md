@@ -6,7 +6,7 @@ APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) dr
 
 atsiv - and how to UNLOAD its driver after using
 
-burnmem - Win9x Memory Burn Driver. Limits memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
+burnmem - BIOS & Himem Memory Burn Drivers. Limit memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
 
 devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
@@ -16,7 +16,7 @@ devtree - Windows Device Tree viewer
 
 edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
 
-giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv to load on modern x64 OSes.
+giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes.
 
 pskill - Process Kill, Windows 95 & 2000+
 
