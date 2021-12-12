@@ -4,6 +4,8 @@ alc650 - setter, viewer and GUI analog part mixer for Realtek ALC650 AC'97 Codec
 
 APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) drives (for some drives that don't save it permanently), Win 2000+
 
+aspiinfo - DOS & Win32 ASPI Viewers
+
 atsiv - and how to UNLOAD its driver after using
 
 burnmem - BIOS & Himem Memory Burn Drivers. Limit memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
