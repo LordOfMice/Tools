@@ -6,6 +6,8 @@ APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) dr
 
 aspiinfo - DOS & Win32 ASPI Viewers
 
+atanames - right names of ATA disks for Windows 9x/ME
+
 atsiv - and how to UNLOAD its driver after using
 
 burnmem - BIOS & Himem Memory Burn Drivers. Limit memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
