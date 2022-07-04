@@ -1,4 +1,4 @@
-Some of these tools were previously located at http://sweetlow.at.tut.by/ and http://sweetlow.orgfree.com/
+Some of these tools were previously located at http://sweetlow.at.tut.by/ (disfunct now) and http://sweetlow.orgfree.com/ (working, there you will find more tools and other)
 
 alc650 - setter, viewer and GUI analog part mixer for Realtek ALC650 AC'97 Codec. giveio client. viewer and setter can be used with any AC'97 Codec (viewer output is valid for common AC'97 registers only).
 
@@ -23,6 +23,8 @@ devtree - Windows Device Tree viewer
 edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
 
 giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes.
+
+msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Win 9x Versions
 
 pskill - Process Kill, Windows 95 & 2000+
 
