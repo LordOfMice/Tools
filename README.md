@@ -26,6 +26,8 @@ edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
 
 giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes.
 
+gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Win9x
+
 msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Win 9x Versions
 
 pskill - Process Kill, Windows 95 & 2000+
