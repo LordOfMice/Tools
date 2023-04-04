@@ -28,6 +28,8 @@ giveio - Yes, this is first and only RIGHT (working and no side effects) version
 
 gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Win9x
 
+lba64hlp - SCSI LBA 64-bit Helper Driver for Win9x
+
 msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Win 9x Versions
 
 pskill - Process Kill, Windows 95 & 2000+
