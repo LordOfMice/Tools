@@ -36,6 +36,8 @@ pskill - Process Kill, Windows 95 & 2000+
 
 riffparser - Parser of RIFF container files like .AVI, .WAV, .DAT
 
+rmmremove - Utilities for removing "bad" DOS (RMM - Real Mode Mapper) drive letters for Windows 9x
+
 sbp2dos - IEEE1394 SBP2 ASPI driver for DOS. Unlocked to work with any device, command line parameters discovered. DOS ASPI viewer as bonus.
 
 TimerRes - Windows Timers Info
