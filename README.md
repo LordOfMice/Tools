@@ -16,6 +16,8 @@ BootInfo - Windows NT+ boot information
 
 burnmem - BIOS & Himem Memory Burn Drivers. Limit memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
 
+cregfix - Win9x VCACHE Protection Error Fix (.VXD version of CREGFIX.COM), primarily for Windows ME
+
 devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
 devstate - Tool to Restart, Enable or Disable device by Device Instance ID in Windows
@@ -32,7 +34,7 @@ lba64hlp - SCSI LBA 64-bit Helper Driver for Win9x
 
 msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Win 9x Versions
 
-pskill - Process Kill, Windows 95 & 2000+
+PsKill - Process Kill, Windows 95 & 2000+
 
 riffparser - Parser of RIFF container files like .AVI, .WAV, .DAT
 
