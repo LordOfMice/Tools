@@ -2,7 +2,7 @@ Some of these tools were previously located at http://sweetlow.at.tut.by/ (disfu
 
 alc650 - setter, viewer and GUI analog part mixer for Realtek ALC650 AC'97 Codec. giveio client. viewer and setter can be used with any AC'97 Codec (viewer output is valid for common AC'97 registers only).
 
-APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) drives (for some drives that don't save it permanently), Win 2000+
+APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) drives (for some drives that don't save it permanently), Windows 2000+
 
 aspiinfo - DOS & Win32 ASPI Viewers
 
@@ -16,7 +16,7 @@ BootInfo - Windows NT+ boot information
 
 burnmem - BIOS & Himem Memory Burn Drivers. Limit memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
 
-cregfix - Win9x VCACHE Protection Error Fix (.VXD version of CREGFIX.COM), primarily for Windows ME
+cregfix - Windows 9x VCACHE Protection Error Fix (.VXD version of CREGFIX.COM), primarily for Windows ME
 
 devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
@@ -28,11 +28,11 @@ edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
 
 giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes.
 
-gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Win9x
+gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Windows 9x
 
-lba64hlp - SCSI LBA 64-bit Helper Driver for Win9x
+lba64hlp - SCSI LBA 64-bit Helper Driver for Windows 9x
 
-msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Win 9x Versions
+msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Windows 9x Versions
 
 PsKill - Process Kill, Windows 95 & 2000+
 
