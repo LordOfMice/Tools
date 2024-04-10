@@ -36,6 +36,8 @@ msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specif
 
 PsKill - Process Kill, Windows 95 & 2000+
 
+ramdrv4m - Universal RAM Drive for Windows 9x
+
 riffparser - Parser of RIFF container files like .AVI, .WAV, .DAT
 
 rmmremove - Utilities for removing "bad" DOS (RMM - Real Mode Mapper) drive letters for Windows 9x
