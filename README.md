@@ -8,7 +8,7 @@ aspiinfo - DOS & Win32 ASPI Viewers
 
 atainfo - SMARTInfo to get ATA IDENTIFY raw binary dump and IDEInfo to parse it
 
-atanames - right names of ATA disks for Windows 9x/ME
+atanames - Right names of ATA drives plus version of device firmware in Device Manager for Windows 9x/ME
 
 atsiv - and how to UNLOAD its driver after using
 
