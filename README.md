@@ -16,7 +16,7 @@ BootInfo - Windows NT+ boot information
 
 burnmem - BIOS & Himem Memory Burn Drivers. Limit memory for himem.sys (to limit it for Windows 9x) or any other software (like old DOS games). BIOS memory interfaces viewer as bonus.
 
-cregfix - Windows 9x VCACHE Protection Error Fix (.VXD version of CREGFIX.COM https://github.com/mintsuki/cregfix ), primarily for Windows ME
+cregfix - Windows 9x VCACHE Protection Error Fix (.VXD and .SYS versions of CREGFIX.COM https://github.com/mintsuki/cregfix ), for Windows ME and Safe Mode (CREGFIX.VXD) and for normal mode (including Virtual 8086 Mode) of Windows 95&98 (CREGFIX.SYS)
 
 devsize - Windows NT Storage Devices Internal Interfaces (Descriptors) viewer. It's strange but i could not find such tool - so wrote my own.
 
