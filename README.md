@@ -45,3 +45,5 @@ rmmremove - Utilities for removing "bad" DOS (RMM - Real Mode Mapper) drive lett
 sbp2dos - IEEE1394 SBP2 ASPI driver for DOS. Unlocked to work with any device, command line parameters discovered. DOS ASPI viewer as bonus.
 
 TimerRes - Windows Timers Info
+
+vmm4gfix - Bug fix VMM.VXD from Windows 98(SE) & ME on handling >4GiB addresses and description of problems with resource manager on newer BIOSes
