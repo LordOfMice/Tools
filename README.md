@@ -32,7 +32,7 @@ gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Windows 9x
 
 lba64hlp - SCSI LBA 64-bit Helper Driver for Windows 9x
 
-msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs (specific MSRs) of IA-32 processors, DOS Real Mode & Windows 9x Versions
+msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs/SMRRs (specific MSRs) of IA-32 processors, DOS Real Mode & Windows 9x Versions
 
 PsKill - Process Kill, Windows 95 & 2000+
 
