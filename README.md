@@ -34,6 +34,12 @@ lba64hlp - SCSI LBA 64-bit Helper Driver for Windows 9x
 
 msr - Tools to work with MSRs (Model Specific Registers) and MTRRs/IORRs/SMRRs (specific MSRs) of IA-32 processors, DOS Real Mode & Windows 9x Versions
 
+nvme2k-src - Sources of nvme9x & nvment
+
+nvme9x - Port for Windows 9x, 64-bit LBA & Fixes of the base nvme2k 1.0.0.2 https://github.com/techomancer/nvme2k - Windows 9x installation
+
+nvment - Same as above, binaries for Windows NT4- & 2000+
+
 PsKill - Process Kill, Windows 95 & 2000+
 
 ramdrv4m - Universal RAM Drive for Windows 9x
