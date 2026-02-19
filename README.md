@@ -26,7 +26,7 @@ devtree - Windows Device Tree viewer
 
 edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
 
-giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes.
+giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes. And properly signed it works with enabled Memory Integrity even.
 
 gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Windows 9x
 
