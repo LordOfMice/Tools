@@ -2,11 +2,11 @@ Some of these tools were previously located at http://sweetlow.at.tut.by/ (disfu
 
 alc650 - setter, viewer and GUI analog part mixer for Realtek ALC650 AC'97 Codec. giveio client. viewer and setter can be used with any AC'97 Codec (viewer output is valid for common AC'97 registers only).
 
-APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) drives (for some drives that don't save it permanently), Windows 2000+
+APMDisable - tiny tool to disable APM (power saving mode) Feature on ATA(IDE) drives (for some drives that don't save it permanently), Windows 9x & 2000+
 
 aspiinfo - DOS & Win32 ASPI Viewers
 
-atainfo - SMARTInfo to get ATA IDENTIFY raw binary dump and IDEInfo to parse it
+atainfo - SMARTInfo & DumpIDENTIFY to get ATA IDENTIFY raw binary dumps and IDEInfo to parse them
 
 atanames - Right names of ATA drives plus version of device firmware in Device Manager for Windows 9x/ME
 
