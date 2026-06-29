@@ -28,7 +28,7 @@ edid-decode - Windows Build of https://git.linuxtv.org/edid-decode.git/
 
 giveio - Yes, this is first and only RIGHT (working and no side effects) version with x64 support! Use atsiv or umap to load on modern x64 OSes. And properly signed it works with enabled Memory Integrity even.
 
-gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Windows 9x
+gpttsd - GPT (GUID Partition Table) TSD (Type-Specific Driver) for Windows 9x. With manual settings can mount any partition too like MBR-invisible partition in upper space on MBR partitioned large drive or EFI System partition.
 
 lba64hlp - SCSI LBA 64-bit Helper Driver for Windows 9x
 
